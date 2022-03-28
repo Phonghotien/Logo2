@@ -198,3 +198,11 @@ footer .social-icons a.button {
 .icon2:hover svg {
     fill: #7510F7 !important;
 }
+.css-1ketnsx:hover {
+    transform: scale(1.05);
+    box-shadow: rgb(0 0 0 / 60%) 0px 40px 70px -60px;
+}
+
+.css-1ketnsx {
+    transition: all 500ms cubic-bezier(0, 0.8, 0.04, 0.98) 0s;
+}
